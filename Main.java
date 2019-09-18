@@ -3,6 +3,7 @@ package assignment10;
 public class Main {
 
 	public static void main(String[] args) {
+		
 		SList list1 = new SList();
 		SListIterator siterator = list1.iterator();
 		System.out.println(list1);

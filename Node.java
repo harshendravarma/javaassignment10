@@ -1,6 +1,7 @@
 package assignment10;
 
 public class Node {
+	
 	String data;
 	Node next;
 
@@ -18,4 +19,5 @@ public class Node {
 			return "null";
 		return data;
 	}
+	
 }
